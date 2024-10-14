@@ -1,7 +1,7 @@
 {
-  "name": "mincer",
+  "name": "mincer2",
   "version": "2.1.0",
-  "description": "Web assets processor. Native JavaScript port of Sprockets.",
+  "description": "Web assets processor. Native JavaScript port of Sprockets. Mincer 2 is Mincer, but with support for the modern scss library",
   "keywords": [
     "sprockets",
     "assets",
@@ -13,7 +13,7 @@
   ],
   "author": "Aleksey V Zapparov <ixti@member.fsf.org> (http://ixti.net/)",
   "license": "MIT",
-  "repository": "js-kyle/mincer",
+  "repository": "moddular/mincer",
   "bin": {
     "mincer": "bin/mincer.js"
   },
