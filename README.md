@@ -6,6 +6,8 @@ Mincer - assets processor
 
 **NOTE: This project is now under limited maintenance.**
 
+**Mincer 2 is [Mincer](https://github.com/js-kyle/mincer), but with added support for the current scss library**
+
 JavaScript port of Sprockets (v2.10.0). It features same declarative dependency
 management (with exactly same language) for CSS and JavaScript and preprocessor
 pipeline. Mincer allows you to write assets in the languages like: CoffeeScript,
