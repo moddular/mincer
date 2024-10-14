@@ -1,6 +1,6 @@
 {
   "name": "mincer2",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Web assets processor. Native JavaScript port of Sprockets. Mincer 2 is Mincer, but with support for the modern scss library",
   "keywords": [
     "sprockets",
